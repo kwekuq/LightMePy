@@ -1,0 +1,13 @@
+Purpose
+LightMePy is meant to provide an easy and quick way to use the GPIO on a raspberry pi to light LED's. The aim is to have
+to type in one or two lines of code and you are up and running.
+You can import it as a module and use it as easy as that.
+
+Use
+To use LightMePy you will provide which ports to use in the lights list, just add them to the list.
+You will then need to run setup, then chose which function(blink, on, off) you want to execute.
+If you want to run the lights for a specific about of time then you will just use period with which ever function you
+chose. As easy as that.
+
+Credits
+Kweku Quansah
